@@ -18,7 +18,7 @@ QUIKNODE_RPC = "https://example.solana.quiknode.pro/000000/"
 Clone the project
 
 ```bash
-  git clone https://github.com/c1ted/solanatradingbot.git
+  git clone https://github.com/mohnate/discord-sol-swapbot
 ```
 
 Go to the project directory
@@ -73,8 +73,8 @@ Node, Express, MongoDB, discord.js, @solana/web3
 
 ## Authors
 
-- [Flamingo](https://www.github.com/gungho0619)
+- [Flamingo](https://www.github.com/mohnate)
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](tzztson@gmail.com) or [telegram](https://t.me/gungho0619)
+If you have any feedback, please reach out to me via [mail](softking0503@gmail.com) or [telegram](https://t.me/storm_valkyrie)
